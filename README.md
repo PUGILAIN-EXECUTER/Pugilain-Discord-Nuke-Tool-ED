@@ -1,7 +1,7 @@
 # 🛡️ Pugilain Discord Security Test
 
 <p align="center">
-  <img src="https://plain-weur-prod-public.komododecks.com/202608/22/bO9xUROuLxqxO7p8BLTo/image.png" width="600" alt="Pugilain Discord Security Test">
+  <img src="https://plain-weur-prod-public.komododecks.com/202608/24/7NTJnFCEJI4pHD7q3xRl/image.jpg" width="600" alt="Pugilain Discord Security Test">
 </p>
 
 <p align="center">
