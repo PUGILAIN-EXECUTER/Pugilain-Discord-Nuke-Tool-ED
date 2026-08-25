@@ -1,4 +1,4 @@
-# 🛡️ Pugilain Discord Security Test
+# 🛡️ Pugilain Discord Nuke ULTIMATE Test
 
 <p align="center">
   <img src="https://plain-weur-prod-public.komododecks.com/202608/24/7NTJnFCEJI4pHD7q3xRl/image.jpg" width="600" alt="Pugilain Discord Security Test">
